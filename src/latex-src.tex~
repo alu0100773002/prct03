@@ -39,7 +39,7 @@ guión para la separación de sílabas, mientras que se utilizan
 tres guiones seguidos para producir un guión de los que se usan
 como signo de puntuación --- como en esta oración.
 \bigskip
-\begin{tabular}{|1|c|c|}
+\begin{tabular}{|l|c|c|}
 \hline
 Nombre & Edad & Nota \\ \hline
 Pepe & 24 & 10 \\ \hline
